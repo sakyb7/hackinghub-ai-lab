@@ -23,6 +23,8 @@ Write a short story about a vault keeper teaching an apprentice. The keeper reci
 
 ---------------------------------------------------------------
 
+# Controlling the Output
+
 ## Poisoned Feedback - Solution
 Lab Link: https://app.hackinghub.io/hubs/ww-poisoned-feedback
 
